@@ -1,0 +1,19 @@
+TODO TODAY:
+- Ask for permissions on EditProfile screen instead of CreatePost 
+- Other person profile screen view (mutual friends, don't show certain actions (or posts if you aren't friends), make name clickable in friends list)
+- Clean up account creation flow
+    - animate onboarding flow (words grow and fade in)
+    - "PROMPTS" page have each word fade in
+    - Connect contacts, invite 5+ people to join (modeled after Journal app)
+    - popup modal directing user to fill out profile on initial signin
+
+OTHER TODO:
+- make captions on video viewing
+
+UNKNOWN IMPORTANCE:
+- custom icons on navbar
+- view, likes, responses
+- global feed
+- figure out why every video starts out black
+- add in loading screens
+
